@@ -8,7 +8,11 @@ This example is to show attata tatata
 
 ## Purpose
 
+As stated above... ttatat tatatata
+
 ## Deployment
+
+This is a simple web project, tatatat tatatta
 
 ## How to Contribute
 
