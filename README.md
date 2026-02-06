@@ -16,3 +16,6 @@ This is a simple web project, tatatat tatatta
 
 ## How to Contribute
 
+Pleas fork this repository and then do some work
+
+
