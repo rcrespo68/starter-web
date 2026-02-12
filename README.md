@@ -6,7 +6,7 @@ Then more changes from myfeature branch
 
 ## Introduction
 
-This example is to show attata tatata
+This example is to show attata tatata, Changes in stashing
 
 ## Purpose
 
